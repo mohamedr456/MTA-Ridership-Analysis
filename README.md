@@ -60,7 +60,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🤝 Contact
 
 For questions or collaboration opportunities:  
-**Mohamed Rabea** – [your.email@example.com](mailto:mhmdrby769@example.com)  
+**Mohamed Rabea** – [Mail](mailto:mhmdrby769@example.com)  
 [LinkedIn](https://www.linkedin.com/in/mohamed-rabea-991373261/) | [GitHub](https://github.com/mohamedr456)
 
 ---
